@@ -1,0 +1,28 @@
+h1 {
+    display:flex;
+    justify-content:center;
+}
+p {
+    display:flex;
+    justify-content:center;
+}
+.input {
+    display:flex;
+    justify-content:center;
+}
+div {
+    border:red 5px dashed;
+}
+button {
+    background-color:red;
+    color:white;
+    padding:5px;
+    border:black 2px dashed; 
+}
+input{
+    border:silver 2px dashed;
+}
+img{
+    display:flex;
+    justify-content:center;
+}
